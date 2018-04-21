@@ -1,0 +1,20 @@
+.Content {
+    margin-top: 72px;
+    text-align: center;
+    background-color: rgb(85, 212, 202);
+    color: rgb(247, 243, 243)
+}
+
+
+.h1
+{
+    text-align: center;
+    color: white;
+    background-color: rgb(230, 90, 48);
+}
+
+.h3{
+    text-align: center;
+    color: white;
+    background-color: springgreen;
+}
